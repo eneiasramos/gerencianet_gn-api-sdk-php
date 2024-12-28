@@ -33,6 +33,7 @@ namespace Gerencianet;
  * @method array updateSubscriptionMetadata(array $params, array $body)
  * @method array createSubscriptionHistory(array $params, array $body)
  * @method array sendSubscriptionLinkEmail(array $params, array $body)
+ * @method array listCharges(array $params)
  * @method array getInstallments(array $params)
  * @method array sendBilletEmail(array $params, array $body)
  * @method array createChargeHistory(array $params, array $body)

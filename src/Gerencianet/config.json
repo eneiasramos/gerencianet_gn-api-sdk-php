@@ -114,6 +114,10 @@
                     "route": "/v1/charge/:id/subscription/resend",
                     "method": "post"
                 },
+                "listCharges": {
+                    "route": "/v1/charges",
+                    "method": "get"
+                },
                 "getInstallments": {
                     "route": "/v1/installments",
                     "method": "get"
